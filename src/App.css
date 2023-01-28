@@ -1,0 +1,11 @@
+.App {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    min-height: 100vh;
+    font-family: sans-serif;
+    padding: 25px;
+    background: rgb(95, 255, 247);
+
+
+}
